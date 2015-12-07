@@ -39,15 +39,6 @@ but will be thoroughly reviewed and discussed.
 
 * [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
-## This fork:
-
-### Videocapture
-
-https://youtu.be/Ya9Md0G3IE0 
-
-### To submit
-
-https://classroom.github.com/assignment-invitations/d1d4b9b5dfaa5eb8602e6843f35a0949
 
 ### Clone
 
